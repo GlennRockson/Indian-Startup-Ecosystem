@@ -40,7 +40,10 @@ Dare to be part of the adventure! Contribute and leave your mark on this epic jo
 5. **Submit a Pull Request.**
 
 ## Power BI Deployment
-**Link** : https://app.powerbi.com/groups/me/reports/5ae5f786-3b1b-426f-9b4c-88ddf801edd1/ReportSection?experience=power-bi
+**Link** : https://app.powerbi.com/groups/me/reports/e5cba281-be07-48d3-96c1-07c401565b07/ReportSection?experience=power-bi
+
+## Article on Medium
+https://medium.com/@joojoakorful/indian-startup-ecosysyem-d2c359441172
 
 
 ##  Acknowledgements
