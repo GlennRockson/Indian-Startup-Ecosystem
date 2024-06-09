@@ -53,8 +53,8 @@ https://www.crunchbase.com/organization
 https://pitchbook.com/profiles/investor/
 https://www.linkedin.com/company/
 https://google.com/
-## License
 
+## License
 This project operates under the [MIT License](LICENSE.md).
 
 ## Unlock Secrets 🧐
